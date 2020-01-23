@@ -1,0 +1,29 @@
+{
+  "name": "cronulent-lambda-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hello@cronulent.com",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.3",
+    "co": "^4.6.0",
+    "js-yaml": "^3.13.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "q": "^1.5.1",
+    "qs": "^6.9.1",
+    "request": "^2.88.0",
+    "superagent": "^5.1.2",
+    "underscore": "^1.9.1",
+    "xml2js": "^0.4.22"
+  }
+}
