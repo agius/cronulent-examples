@@ -7,3 +7,4 @@ If you have a cron job you like, feel free to open a pull request here and share
 ## Contents
 
 - [todoist-completer](./todoist-completer/README.md) - auto-complete items in the Todoist task management app
+- [github-issue-closer](./github-issue-closer/README.md) - closes old Github issues
